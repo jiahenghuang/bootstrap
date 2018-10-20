@@ -1,0 +1,2 @@
+# bootstrap
+使用booststrap估计不同样本量的两个变量是否服从同一概率分布
